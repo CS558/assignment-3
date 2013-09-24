@@ -75,6 +75,12 @@ Author: Michael Doescher
 
 Checks if a point is within a circle.
 
+### Graham's Scan
+
+Author: Daniel Melanz
+
+Computes the convex hull of a finite set of points in the plane with time complexity O(n log n).
+
 # What *YOU* need to do
 You should fork this repository and send a pull request to select a topic that you want to work on.  By Friday, you should have written a working module that solves your specific problem and published it to npm.  You may use any resources you want to do this, including other modules on npm.
 
