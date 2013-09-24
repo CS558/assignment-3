@@ -45,7 +45,7 @@ Exactly multiplies a series expansion by a scalar
 
 ### [`robust-determinant-2`](https://github.com/mikolalysenko/robust-determinant-2)
 
-Author: Daniel Melanz
+Author: Mikola Lysenko
 
 Exactly computes the determinant of a 2x2 matrix
 
@@ -74,6 +74,12 @@ Checks the orientation of 3 points in a plane.
 Author: Michael Doescher
 
 Checks if a point is within a circle.
+
+### Graham's Scan
+
+Author: Daniel Melanz
+
+Computes the convex hull of a finite set of points in the plane with time complexity O(n log n).
 
 # What *YOU* need to do
 You should fork this repository and send a pull request to select a topic that you want to work on.  By Friday, you should have written a working module that solves your specific problem and published it to npm.  You may use any resources you want to do this, including other modules on npm.
