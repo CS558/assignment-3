@@ -55,6 +55,12 @@ Author: Mikola Lysenko
 
 Exactly computes the determinant of a 3x3 matrix
 
+### `robust-determinant-4`
+
+Author: Richard Gaggioli
+
+Exactly computes the determinant of a 4x4 matrix
+
 ## Geometric predicates
 
 ### [`left-right`](https://github.com/mikolalysenko/left-right)
