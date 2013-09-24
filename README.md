@@ -45,7 +45,7 @@ Exactly multiplies a series expansion by a scalar
 
 ### [`robust-determinant-2`](https://github.com/mikolalysenko/robust-determinant-2)
 
-Author: Mikola Lysenko
+Author: Daniel Melanz
 
 Exactly computes the determinant of a 2x2 matrix
 
