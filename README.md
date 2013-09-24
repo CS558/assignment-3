@@ -69,6 +69,11 @@ Author: Mikola Lysenko
 
 Checks the orientation of 3 points in a plane.
 
+### point-in-circle
+
+Author: Michael Doescher
+
+Checks if a point is within a circle.
 
 # What *YOU* need to do
 You should fork this repository and send a pull request to select a topic that you want to work on.  By Friday, you should have written a working module that solves your specific problem and published it to npm.  You may use any resources you want to do this, including other modules on npm.
