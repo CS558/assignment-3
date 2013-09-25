@@ -81,6 +81,12 @@ Author: Daniel Melanz
 
 Computes the convex hull of a finite set of points in the plane with time complexity O(n log n).
 
+### QuickHull
+
+Author: Andrew Seidl
+
+Computes the convex hull of a finite set of points in the plane using a divide-and-conquer approach similar to QuickSort.
+
 # What *YOU* need to do
 You should fork this repository and send a pull request to select a topic that you want to work on.  By Friday, you should have written a working module that solves your specific problem and published it to npm.  You may use any resources you want to do this, including other modules on npm.
 
