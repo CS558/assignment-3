@@ -104,3 +104,5 @@ To help get you started, here are some suggestions for project ideas:
 * Closest point queries between subspaces
 * Implicit to parametric conversions
 * Distance computations between affine subspaces
+* Calculate width and diamater of 2D convex polygons
+* Other rotating caliper-type operations
