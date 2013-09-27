@@ -55,7 +55,7 @@ Author: Mikola Lysenko
 
 Exactly computes the determinant of a 3x3 matrix
 
-### `robust-determinant-4`
+### [`robust-determinant-4`] (https://github.com/rpgaggioli/robust-determinant-4)
 
 Author: Richard Gaggioli
 
