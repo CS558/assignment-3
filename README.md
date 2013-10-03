@@ -31,6 +31,11 @@ Author: Mikola Lysenko
 
 Exactly computes the product of two floating point numbers
 
+### [`cross-product`](https://github.com/Hanuse/cross-product.git)
+
+Author: Hana Sarbortova
+
+
 ### [`robust-sum`](https://github.com/mikolalysenko/robust-sum)
 
 Author: Mikola Lysenko
