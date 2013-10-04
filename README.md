@@ -80,7 +80,7 @@ Author: Michael Doescher
 
 Checks if a point is within a circle.
 
-### Graham's Scan
+### [`graham-scan`](https://github.com/melanz/graham-scan)
 
 Author: Daniel Melanz
 
