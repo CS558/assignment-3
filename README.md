@@ -86,7 +86,7 @@ Author: Daniel Melanz
 
 Computes the convex hull of a finite set of points in the plane with time complexity O(n log n).
 
-### QuickHull
+### [`quick-hull-2d`](https://github.com/andrewseidl/node-quick-hull-2d)
 
 Author: Andrew Seidl
 
