@@ -98,6 +98,12 @@ Author: Yung-Hsien Chu
 
 compute diameter of convex hull.
 
+### [`point-plane`](https://github.com/brandonkorf/pointPlane)
+
+Author: Brandon Korf
+
+Determines if given point is above, on or below plane made by 3 other given points.
+
 # What *YOU* need to do
 You should fork this repository and send a pull request to select a topic that you want to work on.  By Friday, you should have written a working module that solves your specific problem and published it to npm.  You may use any resources you want to do this, including other modules on npm.
 
