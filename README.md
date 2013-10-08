@@ -74,7 +74,7 @@ Author: Mikola Lysenko
 
 Checks the orientation of 3 points in a plane.
 
-### point-in-circle
+### [`point-in-circle`](https://github.com/mdoescher/pointincircle)
 
 Author: Michael Doescher
 
